@@ -1,0 +1,42 @@
+git init - transforma a pasta em diretório
+
+git status - Mostra: * em que branch está
+					 * quantos commits tem no branch master 
+					 * se tem algo pra ser commitado
+
+git add - passa arquivo/pasta para área de transferência
+
+git commit - Salva o que está na área de transferência. Possui alguma informações:
+	
+	
+			*Titulo - máx 50 letras - verbo no indicativo.	
+			
+git log - Mostra a linha de tempo dos commits.
+
+git show ID(do commit) - mostra o que o commit faz
+
+git reflog - log mais avançado
+
+git remote add origin URL("https://github.com/gbmanske/gbmanske.github.io.git");
+
+git remote show origin
+
+git push -u origin master(primeiro push)
+
+git push --set-upstream origin feature/background  - primeiro push de uma nova branch
+
+git push(outros pushs)
+
+git clone URL - Cria o repositório em um novo lugar.
+
+git pull - atualiza o repositório.
+
+git checkout -b 'feature/background'  --  cria nova branch
+
+git checkout master  --  troca para branch master
+
+git stash - commit temporário
+	git stash list
+	git stash apply ID - aplica o commit
+	git stash drop ID - apaga o arquivo stash
+	git stash pop ID - aplica e apaga o stash
