@@ -44,3 +44,5 @@ git stash - commit temporário
 .gitignore - ignora pastas e arquivos que não precisam ser versionados
 
 oh my zsh no google - configurar cmd linux
+
+bit.ly/2NKCs0X=
