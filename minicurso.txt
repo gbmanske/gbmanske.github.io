@@ -40,3 +40,5 @@ git stash - commit temporário
 	git stash apply ID - aplica o commit
 	git stash drop ID - apaga o arquivo stash
 	git stash pop ID - aplica e apaga o stash
+
+.gitignore - ignora pastas e arquivos que não precisam ser versionados
