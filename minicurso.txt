@@ -42,3 +42,5 @@ git stash - commit temporário
 	git stash pop ID - aplica e apaga o stash
 
 .gitignore - ignora pastas e arquivos que não precisam ser versionados
+
+oh my zsh no google - configurar cmd linux
